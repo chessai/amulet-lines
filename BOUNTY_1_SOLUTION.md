@@ -3,6 +3,8 @@
 This is a solution to bounty 1 with two new additions to the deck: Colossal Skyturtle/Eternal Witness and Ghost Quarter.
 It also requires you to have a single Forest in the deck when you cast Scapeshift, which I am not counting as an extra card.
 
+Credit to @.luxn on the Titan Discord for the Eternal Witness idea.
+
 ### Starting Conditions
 
 * Battlefield:
