@@ -1,6 +1,6 @@
 # Bounty 1 Solution
 
-This is a solution to bounty 1 with two new additions to the deck: Eternal Witness and Ghost Quarter.
+This is a solution to bounty 1 with two new additions to the deck: Colossal Skyturtle/Eternal Witness and Ghost Quarter.
 It also requires you to have a single Forest in the deck when you cast Scapeshift, which I am not counting as an extra card.
 
 ### Starting Conditions
@@ -43,7 +43,7 @@ It also requires you to have a single Forest in the deck when you cast Scapeshif
    **State:** 0 floating
 5. Return original 4 untapped lands, 1 Vestige, 1 GQ, 1 SGC, 1 TWest, tap them for mana, bounce TWest.
    **State:** 10 floating
-6. Transmute for Pact, Pact for Eternal Witness, play EWit targeting Shift, cast Shift.
+6. Transmute for Pact, Pact for Skyturtle/Eternal Witness, channel Skyturtle/play EWit targeting Shift, cast Shift.
    **State:** 0 floating
 7. Fetch Woodland, 2x Bounce, Mirrorpool, Deeps on Vestige, Cave, Otawara, Boseiju, tap everything.
    **State:** 11 floating
@@ -53,7 +53,7 @@ It also requires you to have a single Forest in the deck when you cast Scapeshif
 
 ### Result
 
-Any infinite Analyst loop (infinite hasty EWit, infinite Boseiju + Otawara activations, etc.)
+Any infinite Analyst loop (infinite hasty creatures, infinite Boseiju + Otawara activations, etc.)
 
 ### Notes
 
