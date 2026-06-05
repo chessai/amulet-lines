@@ -33,7 +33,7 @@ It also requires you to have a single Forest in the deck when you cast Scapeshif
 
 ### Line
 
-1. Cast Scapeshift, sacrificing 1 Simic Growth Chamber and 4 Forests (any 1-mana-producing land can be in place of 3 of the Forests).
+1. Cast Scapeshift, sacrificing 1 Simic Growth Chamber and 4 untapped lands.
    **State:** 1 floating
 2. Find 2x Vestige, Ghost Quarter, Simic Growth Chamber, TWest. Tap everything but Ghost Quarter, bounce TWest.
    **State:** 8 floating
